@@ -1,0 +1,6 @@
+phonenumbers
+geocoder
+requests
+google
+django-phonenumbers
+id-phonenumbers
